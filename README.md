@@ -1,4 +1,4 @@
-# Qt-OpenGL-
+# Qt-OpenGL-知识点摘抄
 
 t新渲染底层Scene Graph研究（三）
 上一篇文章介绍了Qt Quick和SceneGraph的一些理论上的内容。这也是我最新的研究成果。接下来我要介绍一下如何使用Scene Graph来制作一些好玩的效果。这也是我进行一次SceneGraph的尝试。
